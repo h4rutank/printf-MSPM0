@@ -2,7 +2,9 @@
 This is a library to implement kind of printf() on MSPM0
 
 # objectives
-To implement kind of printf() over URAT. 
+To implement kind of printf() over URAT and conduct printf-debugging on serial-monitor.
+This is not redirect to printf() in stdio.h.
+Just Simple and Fast.
 
 # Dev Environment 
 * [LP-EM-MSPM0L2228](https://www.ti.com/tool/LP-MSPM0L2228)
