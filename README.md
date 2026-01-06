@@ -12,7 +12,7 @@ Just Simple and Fast.
 * CCS theia
  
 # Usage
-* Create CCS project
+* Create CCS project, and Set appropriate UART properties peripheral in sysconfig
 * Add library files to project directory, "uart_print.h" and "uart_print.c"
 * Include the library in main.c
 * Call "printf_()" in main.c
