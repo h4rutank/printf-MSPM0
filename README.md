@@ -23,4 +23,3 @@ Just Simple and Fast.
 
 # Author
 * h4rutank
-* twitter: [@haru_tank](https://twitter.com/haru_tank)
